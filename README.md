@@ -48,3 +48,6 @@ Before you begin, ensure you have the following components:
 
 ## Output
 
+![ezgif-1-06bbcfef86](https://github.com/embedded-software-personal-projects/embedded-software-personal-projects-ESP32-Ultrasonic-Sensor-LCD-Display/assets/96942247/70c7a1fd-ee2d-442b-b4df-ffb10c7af070)
+
+
